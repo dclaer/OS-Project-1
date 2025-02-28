@@ -22,26 +22,26 @@ This project demonstrates IPC using named pipes in C#. It consists of two progra
 ## Step-by-Step Instructions
 
 ### Project A: Multi-Threading Implementation
-1. Clone the Repository:
+1. Clone the Repository
    
 
-2. Navigate to Project A:
+2. Navigate to Project A
 
 
-3. Build and Run:
+3. Build and Run
 
 4. Expected Output:
    - The program will demonstrate thread creation, resource protection, deadlock scenarios, and deadlock resolution.
 
 
 ### Project B: Inter-Process Communication (IPC) Using Pipes
-1. Navigate to Project B:
+1. Navigate to Project B
    
 
-2. Build the Programs:
+2. Build the Programs
 
   
-3. Run the Programs:
+3. Run the Programs
   
 
 4. Expected Output:
